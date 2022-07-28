@@ -1,2 +1,2 @@
 # Paradigmas-de-linguagens-de-programa-o
-algo
+Será apresentado os paradigmas de linguagem de programação
